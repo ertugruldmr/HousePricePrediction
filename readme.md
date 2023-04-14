@@ -16,7 +16,7 @@
   - [__Project__](#project)
   - [__Data__](#data)
   - [__Demo__](#demo) -> [Live Demo](https://ertugruldemir-housepriceprediction.hf.space)
-  - [__Study__](#problemgoal-and-solving-approach) -> [Colab]()
+  - [__Study__](#problemgoal-and-solving-approach) -> [Colab](https://colab.research.google.com/drive/1MCdPhbyFcmEix-C6iueAUYzWA_snriyB)
   - [__Results__](#results)
 - (B) [__Detailed__](#Details)
   - [__Abstract__](#abstract)
@@ -50,13 +50,14 @@
         <a target="_blank" href="https://ertugruldemir-housepriceprediction.hf.space" height="30">[Demo app] HF Space</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/1VPAKlg1ne7lSdJTMll7smQI1VoksC37Q"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
+        <a target="_blank" href="https://github.com/ertugruldmr/HousePricePrediction/blob/main/study.ipynb
+"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
       </td>
     <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/1MCdPhbyFcmEix-C6iueAUYzWA_snriyB"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
       </td>
     </tr>
   </table>
